@@ -1,0 +1,123 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+/* Navbar */
+.bg-custom {
+  background-color: #c7753d;
+
+}
+
+.lu {
+  width: 38px;
+  height: 60px;
+  position: absolute;
+  top: 5px;
+  display: block;
+
+}
+
+.nav.navbar-nav.navbar-right li a {
+  color: white;
+}
+
+/* Title */
+
+.title {
+  width: auto;
+  height: 600px;
+  background-color: #c7753d;
+  color: #fff;
+  position: relative;
+}
+
+.search-form {
+  padding-top: 60px;
+}
+
+.the {
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+}
+
+.big-header {
+  letter-spacing: 3px;
+  font-size: 3.5rem;
+}
+
+.btn-custom {
+  background-color: #fff;
+}
+
+.form-control {
+  width: 300px;
+  margin: auto;
+  display: inline-block;
+}
+
+.pineapple-imgs {
+  position: absolute;
+  width: 100%;
+  left: 50%;
+  bottom: 0px;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%)
+}
+
+
+.pineapple-img-1 {
+  width: 20%;
+}
+
+/* Browse Destinations */
+
+.browse-header {
+  padding-top: 50px;
+}
+
+.carousel-img {
+  width: 80%;
+  height: 80%;
+  margin: 7% auto;
+}
+
+/* Features */
+
+#features {
+
+
+background-color: #c7753d;
+color: #fff;
+position: relative;
+padding: 7% 15%;
+}
+
+.fa-4x {
+  padding: 5%;
+}
+/* cta */
+
+#cta {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+/* Footer */
+
+.btm-icon {
+  padding: 3%;
+  color: #fff;
+}
+
+#footer {
+  color: #fff;
+  background-color: #c7753d;
+  padding-bottom: .25%;
+  padding-top: 3%
+}
